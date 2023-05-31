@@ -1,0 +1,17 @@
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\bin\Debug\net6.0-windows\Business_Registration.exe
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\bin\Debug\net6.0-windows\Business_Registration.deps.json
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\bin\Debug\net6.0-windows\Business_Registration.runtimeconfig.json
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\bin\Debug\net6.0-windows\Business_Registration.dll
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\bin\Debug\net6.0-windows\Business_Registration.pdb
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.Form1.resources
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.csproj.GenerateResource.cache
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.dll
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\refint\Business_Registration.dll
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.pdb
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\Business_Registration.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Documents\Codes\Business_Registration\Business_Registration\obj\Debug\net6.0-windows\ref\Business_Registration.dll
